@@ -1,0 +1,11 @@
+[
+    {
+        'PhilipsHue': {
+          'HUE-APPLICATION-KEY' : '2OtyVCr9tm5soSegO2-SbrXaZyb82aldfNZD0j-S',
+          'CLIENTKEY': 'BC59DDDA1425D130BD1C3E255387C2FD',
+          'DEBUG': false,
+          'IPADDR': '10.81.1.206',
+          'VERIFY_SSL': false
+        }
+    }
+]
